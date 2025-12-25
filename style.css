@@ -1,14 +1,15 @@
 body {
-    background: 
-        linear-gradient(rgba(6,11,23,0.85), rgba(6,11,23,0.85)),
-        url("bg.gif") no-repeat center center fixed;
-    background-size: cover;
+    background: linear-gradient(#0b1324, #060b17);
     font-family: "Segoe UI", sans-serif;
     direction: rtl;
-    color: #fff;
-    margin: 0;
+    color: #c71717;
 }
 
+.container {
+    max-width: 720px;
+    margin: auto;
+    padding: 25px;
+}
 
 h1 {
     text-align: center;
@@ -38,7 +39,7 @@ h1 {
 }
 
 .title:hover {
-    background: #1d284a;
+    background: #2a4a1d;
 }
 
 .gold {
@@ -62,5 +63,3 @@ h1 {
 .content li {
     margin-bottom: 8px;
 }
-
-
