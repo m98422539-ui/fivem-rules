@@ -2,7 +2,7 @@ body {
     background: linear-gradient(#0b1324, #060b17);
     font-family: "Segoe UI", sans-serif;
     direction: rtl;
-    color: #c71717;
+    color: #2a4a1d;
 }
 
 .container {
@@ -63,3 +63,4 @@ h1 {
 .content li {
     margin-bottom: 8px;
 }
+
