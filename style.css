@@ -2,7 +2,7 @@ body {
     background: linear-gradient(#0b1324, #060b17);
     font-family: "Segoe UI", sans-serif;
     direction: rtl;
-    color: #fff;
+    color: #c71717;
 }
 
 .container {
@@ -18,7 +18,7 @@ h1 {
 
 .desc {
     text-align: center;
-    color: #9aa4c7;
+    color: #394fa1;
     margin-bottom: 30px;
 }
 
@@ -29,7 +29,7 @@ h1 {
 .title {
     width: 100%;
     background: #151e33;
-    border: 1px solid #202b4a;
+    border: 1px solid #acb166;
     color: #fff;
     padding: 16px;
     font-size: 16px;
@@ -48,7 +48,7 @@ h1 {
 
 .content {
     display: none;
-    background: #0f172d;
+    background: #2d220f;
     margin-top: 8px;
     border-radius: 10px;
     padding: 15px;
