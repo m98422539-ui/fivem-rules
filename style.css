@@ -1,15 +1,14 @@
 body {
-    background: linear-gradient(#0b1324, #060b17);
+    background: 
+        linear-gradient(rgba(6,11,23,0.85), rgba(6,11,23,0.85)),
+        url("bg.gif") no-repeat center center fixed;
+    background-size: cover;
     font-family: "Segoe UI", sans-serif;
     direction: rtl;
-    color: #2a4a1d;
+    color: #fff;
+    margin: 0;
 }
 
-.container {
-    max-width: 720px;
-    margin: auto;
-    padding: 25px;
-}
 
 h1 {
     text-align: center;
@@ -63,4 +62,5 @@ h1 {
 .content li {
     margin-bottom: 8px;
 }
+
 
